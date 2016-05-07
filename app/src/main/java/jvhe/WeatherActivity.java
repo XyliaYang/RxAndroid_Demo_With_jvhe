@@ -37,7 +37,7 @@ public class WeatherActivity extends RxActivity {
     private EditText et_city_name;
     private TextView tv_city, tv_date, tv_info, tv_temp, tv_moon, tv_title;
 
-    private static String API_KEY = "";
+    private static String API_KEY = "19f7c5051b12a7c73b69251f59ba534f";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
